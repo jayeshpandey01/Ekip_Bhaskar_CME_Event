@@ -10,7 +10,7 @@ This project leverages data from the Aditya-L1 spacecraft, launched by ISRO on S
 
 - **Goal**: Enhance CME prediction accuracy to protect space assets and terrestrial infrastructure.
 - **Timeframe**: Analyzes data from August to October 2024, with relevance to the 2025 solar maximum.
-- **Team**: Jayesh J. Pandey, Kanishk T. Vadge, [Third Author]
+- **Team**: Jayesh J. Pandey, Kanishk T. Vadge
 
 ---
 
