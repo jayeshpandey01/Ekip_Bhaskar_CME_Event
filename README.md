@@ -1,6 +1,6 @@
 # Halo CME Events Identification Using SWIS-ASPEX Data from Aditya-L1
 
-![Project Banner](https://via.placeholder.com/1200x400.png?text=Halo+CME+Detection+Project)  
+![Project Banner](Project_Banner.png)  
 *Harnessing Aditya-L1's Solar Wind Ion Spectrometer (SWIS) data to detect and predict Halo Coronal Mass Ejections (CMEs) for space weather monitoring.*
 
 ---
