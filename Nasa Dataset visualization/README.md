@@ -1,18 +1,3 @@
-
----
-
-### 📁 Key Files and Directories
-
-* `cme_detection_csv_01.ipynb`, `Detect_cme_csv.ipynb`: Notebooks related to CME detection using CSV data.
-* `cme_detection_overview.png`, `threshold_analysis.png`: Visual outputs for detection and threshold tuning.
-* `cme_detection_report.txt`, `threshold_optimization_report.txt`: Text reports summarizing detection performance or settings.
-* `cme_detection.log`, `ace_processing.log`: Logs indicating steps or results of detection processes.
-* `sample.ipynb`: Possibly a demo or small test notebook.
-
-**Notebook Folder:**
-
-* `clearning_csv_file.ipynb`: Possibly for data cleaning or preprocessing of raw input data.
-
 # ☀️ Aditya-L1 CME Detection Project
 
 This repository focuses on detecting **Coronal Mass Ejections (CMEs)** from solar data, likely in alignment with the Aditya-L1 mission by ISRO. It includes Jupyter notebooks for preprocessing, detection logic, threshold tuning, analysis, and detailed logs and reports.
@@ -37,7 +22,13 @@ aditya-l1-isro-main/
 │   └── ace\_processing.log           # Log of ACE dataset processing
 
 ````
+### 📁 Key Files and Directories
 
+* `cme_detection_csv_01.ipynb`, `Detect_cme_csv.ipynb`: Notebooks related to CME detection using CSV data.
+* `cme_detection_overview.png`, `threshold_analysis.png`: Visual outputs for detection and threshold tuning.
+* `cme_detection_report.txt`, `threshold_optimization_report.txt`: Text reports summarizing detection performance or settings.
+* `cme_detection.log`, `ace_processing.log`: Logs indicating steps or results of detection processes.
+* `sample.ipynb`: Possibly a demo or small test notebook.
 ---
 
 ## 🧪 Key Features
