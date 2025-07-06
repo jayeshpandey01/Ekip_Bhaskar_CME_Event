@@ -151,8 +151,10 @@ If you're proposing significant changes, open an issue first to discuss.
 
 ## 📧 Contact
 
-* ✉️ **Email**: [jayesh.pandey@university.edu](mailto:jayesh.pandey@university.edu)
-* 💻 **GitHub**: [@jayeshpandey](https://github.com/jayeshpandey)
+* ✉️ **Email**: [Jayesh Pandey](mailto:jayeshpandey754@gmail.com)
+* 💻 **GitHub**: [@jayeshpandey](https://github.com/jayeshpandey01)
+* ✉️ **Email**: [Kanishk Vadge](mailto:yash.vadge04@gmail.com)
+* 💻 **GitHub**: [@Kanishk-create](https://github.com/Kanishk-create)
 
 ---
 
@@ -166,7 +168,7 @@ If you're proposing significant changes, open an issue first to discuss.
 
 To complete the GitHub setup:
 
-1. Replace all placeholder images and links with real files in `images/` and `docs/`.
+1. Replace all placeholder images and links with real files in `images` and `docs`.
 2. Push everything to GitHub using:
 
 ```bash
