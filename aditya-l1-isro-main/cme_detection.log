@@ -1,0 +1,41 @@
+2025-07-05 18:28:17,479 - INFO - Loading solar wind data files...
+2025-07-05 18:30:05,636 - WARNING - swepam: Proton_Density has 1155078 non-numeric values converted to NaN
+2025-07-05 18:30:06,178 - WARNING - swepam: Bulk_Speed has 1188978 non-numeric values converted to NaN
+2025-07-05 18:30:07,336 - WARNING - swepam: Ion_Temperature has 1364206 non-numeric values converted to NaN
+2025-07-05 18:30:27,228 - INFO - swepam: Downsampling to 5-minute resolution to reduce memory usage
+2025-07-05 18:30:38,429 - INFO - Loaded swepam data: 2513280 records from 2001-08-07 00:00:00 to 2025-06-28 15:55:00
+2025-07-05 18:31:42,562 - WARNING - mag: Sample invalid HHMM entries: ['00.0', '01.0', '02.0', '03.0', '04.0']
+2025-07-05 18:38:13,018 - WARNING - mag: 12562942 invalid datetime entries dropped. Sample: {'YR': {0: 2001.0, 1: 2001.0, 2: 2001.0, 3: 2001.0, 4: 2001.0}, 'MO': {0: 8.0, 1: 8.0, 2: 8.0, 3: 8.0, 4: 8.0}, 'DA': {0: 7.0, 1: 7.0, 2: 7.0, 3: 7.0, 4: 7.0}, 'HH': {0: '00', 1: '01', 2: '02', 3: '03', 4: '04'}, 'MM': {0: '.0', 1: '.0', 2: '.0', 3: '.0', 4: '.0'}}
+2025-07-05 18:38:15,571 - ERROR - mag: No valid data after datetime parsing
+2025-07-05 18:38:22,358 - WARNING - epam: Sample invalid HHMM entries: ['00.0', '05.0', '10.0', '15.0', '20.0']
+2025-07-05 18:39:25,963 - WARNING - epam: 2512492 invalid datetime entries dropped. Sample: {'YR': {0: 2001.0, 1: 2001.0, 2: 2001.0, 3: 2001.0, 4: 2001.0}, 'MO': {0: 8.0, 1: 8.0, 2: 8.0, 3: 8.0, 4: 8.0}, 'DA': {0: 7.0, 1: 7.0, 2: 7.0, 3: 7.0, 4: 7.0}, 'HH': {0: '00', 1: '05', 2: '10', 3: '15', 4: '20'}, 'MM': {0: '.0', 1: '.0', 2: '.0', 3: '.0', 4: '.0'}}
+2025-07-05 18:39:26,102 - ERROR - epam: No valid data after datetime parsing
+2025-07-05 18:39:31,088 - WARNING - sis: Sample invalid HHMM entries: ['00.0', '05.0', '10.0', '15.0', '20.0']
+2025-07-05 18:40:38,988 - WARNING - sis: 2512591 invalid datetime entries dropped. Sample: {'YR': {0: 2001.0, 1: 2001.0, 2: 2001.0, 3: 2001.0, 4: 2001.0}, 'MO': {0: 8.0, 1: 8.0, 2: 8.0, 3: 8.0, 4: 8.0}, 'DA': {0: 7.0, 1: 7.0, 2: 7.0, 3: 7.0, 4: 7.0}, 'HH': {0: '00', 1: '05', 2: '10', 3: '15', 4: '20'}, 'MM': {0: '.0', 1: '.0', 2: '.0', 3: '.0', 4: '.0'}}
+2025-07-05 18:40:39,099 - ERROR - sis: No valid data after datetime parsing
+2025-07-05 18:40:39,103 - INFO - Preprocessing data...
+2025-07-05 18:40:40,306 - WARNING - swepam: MO has 207360 missing values
+2025-07-05 18:40:40,306 - WARNING - swepam: DA has 82634 missing values
+2025-07-05 18:40:40,307 - WARNING - swepam: S has 155405 missing values
+2025-07-05 18:40:40,307 - WARNING - swepam: Proton_Density has 646 missing values
+2025-07-05 18:40:40,307 - WARNING - swepam: Bulk_Speed has 1 missing values
+2025-07-05 18:40:41,861 - INFO - Preprocessed swepam data successfully
+2025-07-05 18:40:41,863 - INFO - Deriving advanced features...
+2025-07-05 18:40:50,708 - INFO - Derived features for swepam
+2025-07-05 18:40:50,773 - INFO - Starting threshold optimization analysis...
+2025-07-05 18:40:50,776 - INFO - Calculating background statistics...
+2025-07-05 18:41:17,275 - INFO - Background statistics calculated for swepam
+2025-07-05 18:41:17,429 - INFO - Optimizing thresholds using statistical methods...
+2025-07-05 18:41:17,432 - INFO - Statistical threshold optimization completed
+2025-07-05 18:41:17,434 - INFO - Creating 50 synthetic CME events for validation...
+2025-07-05 18:41:19,073 - INFO - Created 50 synthetic events
+2025-07-05 18:41:19,132 - INFO - Validating detection performance...
+2025-07-05 18:41:19,133 - INFO - Testing threshold set: 1.5sigma
+2025-07-05 18:48:39,064 - INFO - Testing threshold set: 2sigma
+2025-07-05 18:55:02,033 - INFO - Testing threshold set: 2.5sigma
+2025-07-05 19:01:29,077 - INFO - Testing threshold set: 3sigma
+2025-07-05 19:07:58,795 - INFO - Creating threshold analysis plots...
+2025-07-05 19:08:18,841 - INFO - Threshold analysis plots saved as 'threshold_analysis.png'
+2025-07-05 19:08:18,843 - INFO - Generating threshold optimization report...
+2025-07-05 19:08:18,848 - INFO - Threshold optimization report saved
+2025-07-05 19:08:18,848 - INFO - Threshold optimization analysis completed!

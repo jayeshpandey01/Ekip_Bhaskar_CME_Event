@@ -1,0 +1,95 @@
+================================================================================
+THRESHOLD OPTIMIZATION AND VALIDATION REPORT
+================================================================================
+Generated on: 2025-07-05 19:08:18
+
+BACKGROUND STATISTICS SUMMARY:
+--------------------------------------------------
+
+SWEPAM:
+  Bulk_Speed:
+    Mean: 434.15
+    Std:  104.55
+    95th percentile: 640.14
+    Missing values: 0
+  Proton_Density:
+    Mean: 3.38
+    Std:  2.72
+    95th percentile: 9.34
+    Missing values: 0
+  Ion_Temperature:
+    Mean: 98322.03
+    Std:  78565.77
+    95th percentile: 268200.00
+    Missing values: 0
+
+
+OPTIMAL THRESHOLDS:
+--------------------------------------------------
+
+SWEPAM:
+  Bulk_Speed:
+    1.5sigma_upper: 590.97
+    2sigma_upper: 643.24
+    2.5sigma_upper: 695.52
+    3sigma_upper: 747.79
+  Proton_Density:
+    1.5sigma_upper: 7.46
+    2sigma_upper: 8.82
+    2.5sigma_upper: 10.18
+    3sigma_upper: 11.54
+  Ion_Temperature:
+    1.5sigma_upper: 216170.68
+    2sigma_upper: 255453.57
+    2.5sigma_upper: 294736.45
+    3sigma_upper: 334019.33
+
+
+VALIDATION RESULTS:
+--------------------------------------------------
+
+1.5sigma:
+  Precision: 0.000
+  Recall:    1.000
+  F1-Score:  0.000
+  True Positives:  50
+  False Positives: 2401077
+  False Negatives: 0
+
+2sigma:
+  Precision: 0.000
+  Recall:    1.000
+  F1-Score:  0.000
+  True Positives:  50
+  False Positives: 2418740
+  False Negatives: 0
+
+2.5sigma:
+  Precision: 0.000
+  Recall:    1.000
+  F1-Score:  0.000
+  True Positives:  50
+  False Positives: 2441009
+  False Negatives: 0
+
+3sigma:
+  Precision: 0.000
+  Recall:    1.000
+  F1-Score:  0.000
+  True Positives:  50
+  False Positives: 2465921
+  False Negatives: 0
+
+
+RECOMMENDATIONS:
+--------------------------------------------------
+Best performing threshold set: 1.5sigma
+F1-Score: 0.000
+
+For CME detection in operational mode:
+1. Use 1.5-sigma thresholds for high sensitivity
+2. Use 2-sigma thresholds for balanced performance
+3. Use 3-sigma thresholds for high specificity
+4. Monitor missing data and HHMM alignment issues
+
+================================================================================

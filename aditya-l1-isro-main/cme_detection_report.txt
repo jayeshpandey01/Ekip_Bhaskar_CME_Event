@@ -1,0 +1,28 @@
+================================================================================
+ADITYA-L1 SWIS CME DETECTION SYSTEM - ANALYSIS REPORT
+================================================================================
+Generated on: 2025-07-04 11:24:25
+
+DATA SUMMARY:
+----------------------------------------
+MAG: 0 records
+  Time range: NaT to NaT
+  Duration: nan days
+EPAM: 0 records
+  Time range: NaT to NaT
+  Duration: nan days
+SIS: 0 records
+  Time range: NaT to NaT
+  Duration: nan days
+
+DETECTION RESULTS:
+----------------------------------------
+MAG: 0 CME signatures detected
+EPAM: 0 CME signatures detected
+SIS: 0 CME signatures detected
+TOTAL INDIVIDUAL DETECTIONS: 0
+
+DETECTION STATISTICS:
+----------------------------------------
+
+================================================================================
