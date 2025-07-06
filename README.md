@@ -1,6 +1,6 @@
 # Halo CME Events Identification Using SWIS-ASPEX Data from Aditya-L1
 
-![Project Banner]()  
+![Project Banner](project_Banner.png)  
 *Harnessing Aditya-L1's Solar Wind Ion Spectrometer (SWIS) data to detect and predict Halo Coronal Mass Ejections (CMEs) for space weather monitoring.*
 
 ---
@@ -23,17 +23,44 @@ This project leverages data from the Aditya-L1 spacecraft, launched by ISRO on S
 
 ---
 
-## 📸 Screenshots
+## Output Screenshots
 
 ### Mobile App Interface
-![Mobile App](https://via.placeholder.com/300x600.png?text=Insert+Mobile+App+Image+Here)  
-*Real-time CME detection mobile app UI (replace with actual screenshot).*
+<p float="left">
+  <img src="image/app/IMG-20250705-WA0002.jpg" width="19%" />
+  <img src="image/app/IMG-20250705-WA0003.jpg" width="19%" />
+  <img src="image/app/IMG-20250705-WA0004.jpg" width="19%" />
+  <img src="image/app/IMG-20250705-WA0005.jpg" width="19%" />
+  <img src="image/app/IMG-20250705-WA0006.jpg" width="19%" />
+</p>
+<p>CME Visualizer is a cross-platform mobile application built with React Native that enables real-time visualization of Coronal Mass Ejection (CME) events using datasets from space missions like Aditya-L1. It features interactive plots, dynamic overlays on solar imagery, and intuitive navigation for researchers and enthusiasts to explore solar activity. The app integrates spacecraft telemetry, radial intensity profiles, and CME envelope projections for educational and analytical use.
+</p>
 
 ### Sample Visualization Result
-![Visualization](https://via.placeholder.com/600x400.png?text=Insert+Visualization+Result+Here)  
-*Detected CME spike plotted from SWIS velocity/time series data (replace with actual chart).*
 
----
+<p float="left">
+  <img src="image/visualization/image_05.jpg" width="40%" />
+  <img src="image/visualization/image_06.jpg" width="40%" />
+  <img src="image/visualization/image_07.jpg" width="50%" />
+</p>
+
+<p float="left">
+  <img src="image/visualization/image_04.jpg" width="40%" />
+  <img src="image/visualization/image_11.jpg" width="40%" />
+  <img src="image/visualization/image_03.jpg" width="50%" />
+</p>
+
+<p float='left'>
+   <img src="image/visualization/image_17.jpg" width='50%' />
+   <img src="image/visualization/image_02.jpg" width='30%' />
+</p>
+
+<p float='left'>
+   <img src="image/visualization/image_08.jpg" width='20%' />
+   <img src="image/visualization/image_12.jpg" width='20%' />
+   <img src="image/visualization/image_15.jpg" width='20%' />
+</p>
+
 
 ## 🛠️ Technologies Used
 
