@@ -1,4 +1,3 @@
-The extracted project `aditya-l1-isro-main` appears to be focused on CME (Coronal Mass Ejection) detection, likely using data relevant to the Aditya-L1 mission. Here's a breakdown of the structure and contents:
 
 ---
 
