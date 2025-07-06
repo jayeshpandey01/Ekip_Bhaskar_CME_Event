@@ -77,16 +77,14 @@ This project leverages data from the Aditya-L1 spacecraft, launched by ISRO on S
 
 Explore the technical and scientific documentation for this project:
 
-1. 📘 [Halo CME Events Identification - Full Report](https://github.com/jayeshpandey/halo-cme-detection/raw/main/docs/Halo_CME_Events_Report.pdf)
-2. 📗 [Methodology and Results](https://github.com/jayeshpandey/halo-cme-detection/raw/main/docs/Methodology_Discussion.pdf)
-3. 📙 [Conclusion and References](https://github.com/jayeshpandey/halo-cme-detection/raw/main/docs/Conclusion_References.pdf)
+📘 [Halo CME Events Identification - Full Report](CME_Event.pdf)
 
 ---
 
 ## 🔗 Useful Links
-- 🌞 [Aditya-L1 Mission Overview – ISRO](https://www.isro.gov.in/Aditya-L1.html)
-- 🛰️ [CACTUS CME Database](https://www.sidc.be/cactus/)
-- 📄 [NASA CDF Documentation](https://cdf.gsfc.nasa.gov/html/sw_package.html)
+- 🌞 [Aditya-L1 Mission Overview – ISRO](https://www.isro.gov.in/Aditya_L1.html)
+- 🛰️ [CACTUS CME Database](https://www.sidc.be/cactus/catalog.php)
+- 📄 [NASA CDF Documentation](https://cdf.gsfc.nasa.gov/html/cdf_docs.html)
 
 ---
 
