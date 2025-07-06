@@ -1,0 +1,51 @@
+{
+  "expo": {
+    "name": "SolarSim",
+    "slug": "solarsim",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#332745"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.solarsim.app",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#332745"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.solarsim.app",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "solarsim",
+    "description": "Solar CME Simulation & Monitoring System - Experience real-time solar particle data visualization from Aditya-L1 mission",
+    "keywords": [
+      "solar",
+      "cme",
+      "space",
+      "weather",
+      "aditya-l1",
+      "simulation",
+      "particles",
+      "astronomy"
+    ],
+    "author": "SolarSim Team",
+    "privacy": "public"
+  }
+}

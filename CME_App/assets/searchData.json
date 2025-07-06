@@ -1,0 +1,20 @@
+[
+  {
+    "name": "CME Event Graph",
+    "description": "Visualize recent CME activity data.",
+    "type": "graph",
+    "path": "GraphScreen"
+  },
+  {
+    "name": "Understanding SWIS Sensor",
+    "description": "Blog on how SWIS detects solar wind particles.",
+    "type": "blog",
+    "path": "BlogSWIS"
+  },
+  {
+    "name": "Aditya-L1 Dataset",
+    "description": "Downloadable solar particle measurements.",
+    "type": "dataset",
+    "path": "DatasetPage"
+  }
+]
